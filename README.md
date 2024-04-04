@@ -1,2 +1,2 @@
 # dev-portfolio-2d-game
-Following @JSLegendDev 
+Following @JSLegendDev (https://www.youtube.com/watch?v=wy_fSStEgMs&ab_channel=freeCodeCamp.org)
